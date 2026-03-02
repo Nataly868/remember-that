@@ -4,6 +4,12 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+##📸 Preview
+---
+![alt text](image.png)
+━━━━━━━━━━━━━━━━━━━━━━━
+
+
 ## ✨ Visão Geral
 
 🔹 Layout responsivo (mobile, tablet e desktop)  
