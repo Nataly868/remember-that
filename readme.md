@@ -57,12 +57,6 @@ Antes de entrar no **SCSS**, é importante entender a diferença entre **CSS**, 
 
 ## 🎨 SCSS – Organização e Boas Práticas
 
-✔ Uso de variável global:
-```scss
-:root {
-  --primary-color: #007AF3;
-}
-
 ✔ Layout responsivo com múltiplos breakpoints:
 📱 Mobile first
 📱 Tablet (768px)
@@ -111,15 +105,3 @@ Antes de entrar no **SCSS**, é importante entender a diferença entre **CSS**, 
 🗺️ Google Maps
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-
-📸 Preview do Projeto
-
-![Preview do Projeto](./images/preview.png)
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-💡 Projeto ideal para:
-▫ Praticar responsividade
-▫ Evoluir em SCSS
-▫ Criar menus mobile sem frameworks
-▫ Fortalecer o portfólio front-end 🚀
